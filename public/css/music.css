@@ -1,0 +1,15 @@
+.music ul {
+    padding-left: 30px;
+}
+
+.music main a {
+    color: gray;
+}
+
+.music main section ol li {
+    list-style-type: decimal-leading-zero;
+}
+
+.music main section p {
+    line-height: 10px;
+}

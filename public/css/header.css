@@ -5,3 +5,30 @@ header nav ul li a {
 .header__vertical {
     padding-left: 30px;
 }
+
+
+.header__horizontal {
+    text-align: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.header__horizontal nav.menu {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-bottom: 20px;
+}
+
+.header__horizontal nav ul li {
+    display: inline;
+}
+
+.music header {
+    background-image: url('/img/emilia-music-top.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
